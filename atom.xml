@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://jaylu2018.github.io/"/>
+  <updated>2019-02-08T08:34:22.120Z</updated>
+  <id>https://jaylu2018.github.io/</id>
+  
+  <author>
+    <name>Falco</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello Python</title>
+    <link href="https://jaylu2018.github.io/2019/02/06/%E5%89%8D%E8%A8%80/"/>
+    <id>https://jaylu2018.github.io/2019/02/06/前言/</id>
+    <published>2019-02-06T12:25:00.000Z</published>
+    <updated>2019-02-08T08:34:22.120Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="/assets/blogImg/python.jpg" alt="Python Logo"></p><blockquote><p>人生苦短 快用Python</p></blockquote><a id="more"></a><h2 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a><strong>写在前面</strong></h2><p>后续所有操作都是基于Mac 10.14系统环境</p><h2 id="安装python环境"><a href="#安装python环境" class="headerlink" title="安装python环境"></a><strong>安装python环境</strong></h2><p>Mac 自带python2，但是python2终究要被淘汰。<br>Anaconda自带python3环境，推荐安装。由于官网的网速实在太慢，推荐清华大学的镜像下载<br><a href="https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/" target="_blank" rel="noopener">https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/</a><br>安装完Anaconda之后 可以库管理那里添加两个源<br><a href="https://pypi.python.org/simple" target="_blank" rel="noopener">https://pypi.python.org/simple</a><br><a href="https://pypi.mirrors.ustc.edu.cn/simple" target="_blank" rel="noopener">https://pypi.mirrors.ustc.edu.cn/simple</a></p><h2 id="安装工具"><a href="#安装工具" class="headerlink" title="安装工具"></a><strong>安装工具</strong></h2><p>工欲善其事，必先利其器。推荐两款软件<br>1.PyCharm<br>2.Sublime Text</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/assets/blogImg/python.jpg&quot; alt=&quot;Python Logo&quot;&gt;&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;人生苦短 快用Python&lt;/p&gt;&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="Python" scheme="https://jaylu2018.github.io/tags/Python/"/>
+    
+  </entry>
+  
+</feed>

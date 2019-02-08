@@ -1,0 +1,1 @@
+!function(t){t.fn.typewriter=function(){return this.each(function(){var n=t(this),e=n.html(),r=0;n.html("");var i=setInterval(function(){"<"==e.substr(r,1)?r=e.indexOf(">",r)+1:r++,n.html(e.substring(0,r)+(1&r?"_":"")),r>=e.length&&clearInterval(i)},150)}),this}}(jQuery),$("#code").show().typewriter();
