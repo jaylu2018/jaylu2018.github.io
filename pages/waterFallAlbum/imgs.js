@@ -1,5 +1,5 @@
 var data = {
-  "2018-04-23": [
+  "2018-0-22": [
     "https://src.wangriyu.wang/images/album/20180423/1.jpg",
     "https://src.wangriyu.wang/images/album/20180423/2.jpg",
     "https://src.wangriyu.wang/images/album/20180423/3.jpg",
